@@ -1,0 +1,154 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl FABRIC_4_FRONT_17953
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_1011.png
+map_Kd D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_1011.png
+map_bump D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_normal_1011.png
+newmtl FABRIC_6_FRONT_17964
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_101-1.png
+map_Kd D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_101-1.png
+map_bump D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_normal_101-1.png
+newmtl FABRIC_3_FRONT_17946
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_1001.png
+map_Kd D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_1001.png
+map_bump D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_normal_1001.png
+newmtl FABRIC_2_FRONT_17939
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_100-1.png
+map_Kd D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_100-1.png
+map_bump D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_normal_100-1.png
+newmtl FABRIC_5_FRONT_17959
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_100-1.png
+map_Kd D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_100-1.png
+map_bump D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_normal_100-1.png
+newmtl FABRIC_8_FRONT_17974
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_10-21.png
+map_Kd D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_10-21.png
+map_bump D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_normal_10-21.png
+newmtl FABRIC_7_FRONT_17969
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+map_Ka D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_10-21.png
+map_Kd D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_diffuse_10-21.png
+map_bump D:/OneDrive/Dokumente/Uni david/3. semester/clo 3d/line_up_2_normal_10-21.png
+newmtl defaultMat1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/hair.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/hair.jpg
+newmtl face
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/face.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/face.jpg
+newmtl body2
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/body_Covered.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/body_Covered.jpg
+newmtl arm
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/arm.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/arm.jpg
+newmtl leg
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.165000 0.165000 0.165000
+Ns 37.550732
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/leg.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/leg.jpg
+newmtl eye
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.560000 0.560000 0.560000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/eye.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/eye.jpg
+newmtl eye
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.560000 0.560000 0.560000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/eye.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/eye.jpg
+newmtl eyelash
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/eyelash.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/eyelash.jpg
+newmtl eyelash
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/eyelash.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/eyelash.jpg
+newmtl toothSG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/tooth.jpg
+map_Kd C:/Users/david/AppData/Local/CLO/CLO Network OnlineAuth/11512/1031/tooth.jpg
